@@ -31,10 +31,10 @@ box-shadow:0 5px 20px rgba(0,0,0,.08);
 z-index:999;
 }
 
-.logo{
-font-size:28px;
-font-weight:700;
-color:#0f4c81;
+.logo img{
+    height:60px;
+    width:auto;
+}
 }
 
 nav{
