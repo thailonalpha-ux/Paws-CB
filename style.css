@@ -31,9 +31,23 @@ box-shadow:0 5px 20px rgba(0,0,0,.08);
 z-index:999;
 }
 
+.logo{
+    display:flex;
+    align-items:center;
+}
+
 .logo img{
+    width:60px;
     height:60px;
-    width:auto;
+    object-fit:contain;
+}
+
+.logo span{
+    margin-left:12px;
+    font-size:28px;
+    font-weight:700;
+    color:#0f4c81;
+}
 }
 }
 
